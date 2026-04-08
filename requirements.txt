@@ -1,0 +1,7 @@
+Django==3.0.1
+matplotlib
+numpy==1.25.2
+pandas==2.0.1
+scikit_learn==1.0.1
+tensorflow==2.10.1
+tensorflow_intel
