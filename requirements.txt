@@ -1,5 +1,1 @@
-Django==3.2
-matplotlib==3.7.1
 numpy
-pandas
-scikit-learn
